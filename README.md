@@ -15,9 +15,9 @@
 - 🤝 Open for collaborations in frontend and backend web development.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time.
-- 🌐 Visit my [porfolio website](https://sheldor05.github.io/).
+- 🌐 Visit my [porfolio website](https://SuryaKumarAgarwal.github.io/).
 <!--
-**Sheldor05/Sheldor05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SuryaKumarAgarwal/SuryaKumarAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
 
@@ -66,22 +66,22 @@ Here are some ideas to get you started:
 ### 📑 My Github Stats :
 
 <p align="center">
- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sheldor05&show_icons=true&theme=radical&count_private=true&hide=issues" />
- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheldor05&theme=radical&layout=compact&hide=html,java,ejs" />
+ <img height="160" src="https://github-readme-stats.vercel.app/api?username=SuryaKumarAgarwal&show_icons=true&theme=radical&count_private=true&hide=issues" />
+ <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaKumarAgarwal&theme=radical&layout=compact&hide=html,java,ejs" />
 </p>
 
 
 <!--  <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sheldor05&show_icons=true&theme=radical&count_private=true&hide=issues" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SuryaKumarAgarwal&show_icons=true&theme=radical&count_private=true&hide=issues" />
 </p> -->
-[![Surya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sheldor05&theme=rogue)](https://github.com/Sheldor05/github-readme-activity-graph)
+[![Surya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SuryaKumarAgarwal&theme=rogue)](https://github.com/SuryaKumarAgarwal/github-readme-activity-graph)
 
 
 ### 🤝 Connect with Me :
 
 <a href="https://www.linkedin.com/in/surya-kumar-agarwal-4873901b0/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@Surya&color=success&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
-<a href="https://www.github.com/Sheldor05/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@Sheldor05&color=grey&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
+<a href="https://www.github.com/SuryaKumarAgarwal/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@SuryaKumarAgarwal&color=grey&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
 <a href="mailto:suryaagarwal.00@gmail.com" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=suryaagarwal.00@gmail.com&label=send&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainsparsh0801@gmail.com" /> </a>
 <a href="https://leetcode.com/Sh3ld0r/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=visit&message=@Sh3ld0r&color=yellow&logo=leetcode&style=flat-square&logoColor=orange&colorA=black" /> </a>
-<img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=SparshJain2000.Sheldor05" /> 
+<img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=SuryaKumarAgarwal" /> 
 
